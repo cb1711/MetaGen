@@ -9,8 +9,4 @@ Then run
 
 `python3 t2.py`
 
-
-Due to COVID-19 the server having the pretrained model has been shut down. Pretrained model and code for generating final decision and meta-review will be uploaded as soon as situation gets back to normal.          
-
-
 To finetune model on a dataset follow the instructions given [here](https://github.com/cb1711/unilm_MetaGen)
