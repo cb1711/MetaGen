@@ -34,7 +34,6 @@ br = re.compile(r'\([^\)]*\)')
 
 
 def get_corefs(s):
-    return []
     d = nlp(s)
     x = d._.coref_clusters
     clusters = []
