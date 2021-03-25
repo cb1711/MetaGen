@@ -59,7 +59,7 @@ pyrouge==0.1.3
 pyrsistent==0.15.2
 python-dateutil==2.8.0
 pytz==2019.1
-PyYAML==5.1
+PyYAML==5.4
 regex==2018.1.10
 requests==2.21.0
 rouge==0.3.1
